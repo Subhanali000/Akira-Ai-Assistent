@@ -1,0 +1,9 @@
+
+---
+
+### `requirements.txt`
+```plaintext
+SpeechRecognition
+pyttsx3
+requests
+pocketsphinx
